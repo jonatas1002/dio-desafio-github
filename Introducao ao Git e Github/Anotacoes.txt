@@ -1,0 +1,10 @@
+Primeiros passos com Git...
+
+git clone
+
+git add . ou git add -a
+
+git commit
+
+git push
+
